@@ -199,10 +199,10 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-12 col-md-12  col-sm-12 col-12">
-                                        <button id="btnIngresar" type="button" class="btn btn-block btn-default"><b>Ingresar</b></button>
+                                        <button id="btnIngresar" type="button" class="btn btn-block btn-secondary"><b>Ingresar</b></button>
                                     </div>
                                     <div class="col-lg-12 col-md-12  col-sm-12 col-12 row-general-top">
-                                        <button id="btnLimpiar" type="button" class="btn btn-block btn-default"><b>Limpiar</b></button>
+                                        <button id="btnLimpiar" type="button" class="btn btn-block btn-secondary"><b>Limpiar</b></button>
                                     </div>
                                 </div>
                             </div>
